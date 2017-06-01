@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<table xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" id="14" name="validation.talent" displayName="validation.talent" ref="C1:D22" totalsRowShown="0"><tableColumns count="2"><tableColumn id="1" name="talent"/><tableColumn id="2" name="max" dataDxfId="255"/></tableColumns><tableStyleInfo name="TableStyleMedium11" showFirstColumn="0" showLastColumn="0" showRowStripes="1" showColumnStripes="0"/></table>

@@ -1,0 +1,2380 @@
+<xml xmlns:v="urn:schemas-microsoft-com:vml"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel">
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1,2"/>
+ </o:shapelayout><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:spt="75"
+  o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+  <v:stroke joinstyle="miter"/>
+  <v:formulas>
+   <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+   <v:f eqn="sum @0 1 0"/>
+   <v:f eqn="sum 0 0 @1"/>
+   <v:f eqn="prod @2 1 2"/>
+   <v:f eqn="prod @3 21600 pixelWidth"/>
+   <v:f eqn="prod @3 21600 pixelHeight"/>
+   <v:f eqn="sum @0 0 1"/>
+   <v:f eqn="prod @6 1 2"/>
+   <v:f eqn="prod @7 21600 pixelWidth"/>
+   <v:f eqn="sum @8 21600 0"/>
+   <v:f eqn="prod @7 21600 pixelHeight"/>
+   <v:f eqn="sum @10 21600 0"/>
+  </v:formulas>
+  <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+  <o:lock v:ext="edit" aspectratio="t"/>
+ </v:shapetype><v:shape id="Picture_x0020_2" o:spid="_x0000_s2025" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:430.5pt;
+  margin-top:89.25pt;width:29.25pt;height:27.75pt;z-index:1;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId1" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    14, 0, 5, 0, 14, 39, 6, 0</x:Anchor>
+   <x:FmlaPict>concat.marksman.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_3" o:spid="_x0000_s2026" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:430.5pt;
+  margin-top:124.5pt;width:30pt;height:28.5pt;z-index:2;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId2" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    14, 0, 7, 0, 14, 40, 8, 1</x:Anchor>
+   <x:FmlaPict>concat.marksman.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_5" o:spid="_x0000_s2027" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:680.25pt;
+  margin-top:89.25pt;width:29.25pt;height:27.75pt;z-index:3;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId3" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    22, 0, 5, 0, 22, 39, 6, 0</x:Anchor>
+   <x:FmlaPict>concat.hillgiant.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_6" o:spid="_x0000_s2028" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:680.25pt;
+  margin-top:124.5pt;width:30pt;height:28.5pt;z-index:4;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId4" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    22, 0, 7, 0, 22, 40, 8, 1</x:Anchor>
+   <x:FmlaPict>concat.hillgiant.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_8" o:spid="_x0000_s2029" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:181.5pt;
+  margin-top:189pt;width:29.25pt;height:27.75pt;z-index:5;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId5" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 11, 0, 6, 39, 12, 0</x:Anchor>
+   <x:FmlaPict>concat.engineer.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_9" o:spid="_x0000_s2030" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:181.5pt;
+  margin-top:224.25pt;width:30pt;height:28.5pt;z-index:6;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId6" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 13, 0, 6, 40, 14, 1</x:Anchor>
+   <x:FmlaPict>concat.engineer.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_11" o:spid="_x0000_s2031" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:430.5pt;
+  margin-top:189pt;width:29.25pt;height:27.75pt;z-index:7;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId7" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    14, 0, 11, 0, 14, 39, 12, 0</x:Anchor>
+   <x:FmlaPict>concat.frostwitch.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_12" o:spid="_x0000_s2032" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:430.5pt;
+  margin-top:224.25pt;width:30pt;height:28.5pt;z-index:8;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId2" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    14, 0, 13, 0, 14, 40, 14, 1</x:Anchor>
+   <x:FmlaPict>concat.frostwitch.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_14" o:spid="_x0000_s2033" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:680.25pt;
+  margin-top:189pt;width:29.25pt;height:27.75pt;z-index:9;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId8" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    22, 0, 11, 0, 22, 39, 12, 0</x:Anchor>
+   <x:FmlaPict>concat.dryad.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_15" o:spid="_x0000_s2034" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:680.25pt;
+  margin-top:224.25pt;width:30pt;height:28.5pt;z-index:10;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId4" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    22, 0, 13, 0, 22, 40, 14, 1</x:Anchor>
+   <x:FmlaPict>concat.dryad.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_17" o:spid="_x0000_s2035" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:181.5pt;
+  margin-top:288.75pt;width:29.25pt;height:27.75pt;z-index:11;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId9" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 17, 0, 6, 39, 18, 0</x:Anchor>
+   <x:FmlaPict>concat.alchemist.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_18" o:spid="_x0000_s2036" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:181.5pt;
+  margin-top:324pt;width:30pt;height:27.75pt;z-index:12;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId2" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 19, 0, 6, 40, 20, 1</x:Anchor>
+   <x:FmlaPict>concat.alchemist.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_20" o:spid="_x0000_s2037" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:430.5pt;
+  margin-top:288.75pt;width:29.25pt;height:27.75pt;z-index:13;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId10" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    14, 0, 17, 0, 14, 39, 18, 0</x:Anchor>
+   <x:FmlaPict>concat.marauder.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_21" o:spid="_x0000_s2038" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:430.5pt;
+  margin-top:324pt;width:30pt;height:27.75pt;z-index:14;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId2" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    14, 0, 19, 0, 14, 40, 20, 1</x:Anchor>
+   <x:FmlaPict>concat.marauder.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_23" o:spid="_x0000_s2039" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:181.5pt;
+  margin-top:441pt;width:29.25pt;height:27.75pt;z-index:15;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId7" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 26, 0, 6, 39, 27, 0</x:Anchor>
+   <x:FmlaPict>concat.executioner.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_24" o:spid="_x0000_s2040" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:181.5pt;
+  margin-top:476.25pt;width:30pt;height:28.5pt;z-index:16;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId6" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 28, 0, 6, 40, 29, 1</x:Anchor>
+   <x:FmlaPict>concat.executioner.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_26" o:spid="_x0000_s2041" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:430.5pt;
+  margin-top:441pt;width:29.25pt;height:27.75pt;z-index:17;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId8" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    14, 0, 26, 0, 14, 39, 27, 0</x:Anchor>
+   <x:FmlaPict>concat.assassin.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_27" o:spid="_x0000_s2042" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:430.5pt;
+  margin-top:476.25pt;width:30pt;height:28.5pt;z-index:18;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId2" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    14, 0, 28, 0, 14, 40, 29, 1</x:Anchor>
+   <x:FmlaPict>concat.assassin.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_29" o:spid="_x0000_s2043" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:680.25pt;
+  margin-top:441pt;width:29.25pt;height:27.75pt;z-index:19;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId8" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    22, 0, 26, 0, 22, 39, 27, 0</x:Anchor>
+   <x:FmlaPict>concat.werewolf.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_30" o:spid="_x0000_s2044" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:680.25pt;
+  margin-top:476.25pt;width:30pt;height:28.5pt;z-index:20;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId2" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    22, 0, 28, 0, 22, 40, 29, 1</x:Anchor>
+   <x:FmlaPict>concat.werewolf.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_32" o:spid="_x0000_s2045" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:181.5pt;
+  margin-top:540.75pt;width:29.25pt;height:27.75pt;z-index:21;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId7" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 32, 0, 6, 39, 33, 0</x:Anchor>
+   <x:FmlaPict>concat.cyclops.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_33" o:spid="_x0000_s2046" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:181.5pt;
+  margin-top:8in;width:30pt;height:28.5pt;z-index:22;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId2" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 34, 0, 6, 40, 35, 1</x:Anchor>
+   <x:FmlaPict>concat.cyclops.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_35" o:spid="_x0000_s2047" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:430.5pt;
+  margin-top:540.75pt;width:29.25pt;height:27.75pt;z-index:23;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId11" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    14, 0, 32, 0, 14, 39, 33, 0</x:Anchor>
+   <x:FmlaPict>concat.painda.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_36" o:spid="_x0000_s2048" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:430.5pt;
+  margin-top:8in;width:30pt;height:28.5pt;z-index:24;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId2" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    14, 0, 34, 0, 14, 40, 35, 1</x:Anchor>
+   <x:FmlaPict>concat.painda.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_38" o:spid="_x0000_s2049" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:680.25pt;
+  margin-top:540.75pt;width:29.25pt;height:27.75pt;z-index:25;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId10" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    22, 0, 32, 0, 22, 39, 33, 0</x:Anchor>
+   <x:FmlaPict>concat.shaman.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_39" o:spid="_x0000_s2050" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:680.25pt;
+  margin-top:8in;width:30pt;height:28.5pt;z-index:26;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId12" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    22, 0, 34, 0, 22, 40, 35, 1</x:Anchor>
+   <x:FmlaPict>concat.shaman.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_41" o:spid="_x0000_s2051" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:181.5pt;
+  margin-top:640.5pt;width:29.25pt;height:27.75pt;z-index:27;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId13" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 38, 0, 6, 39, 39, 0</x:Anchor>
+   <x:FmlaPict>concat.serpentqueen.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_42" o:spid="_x0000_s2052" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:181.5pt;
+  margin-top:675.75pt;width:30pt;height:27.75pt;z-index:28;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId2" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 40, 0, 6, 40, 41, 1</x:Anchor>
+   <x:FmlaPict>concat.serpentqueen.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_44" o:spid="_x0000_s2053" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:430.5pt;
+  margin-top:640.5pt;width:29.25pt;height:27.75pt;z-index:29;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId11" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    14, 0, 38, 0, 14, 39, 39, 0</x:Anchor>
+   <x:FmlaPict>concat.icedemon.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_45" o:spid="_x0000_s2054" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:430.5pt;
+  margin-top:675.75pt;width:30pt;height:27.75pt;z-index:30;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId14" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    14, 0, 40, 0, 14, 40, 41, 1</x:Anchor>
+   <x:FmlaPict>concat.icedemon.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_47" o:spid="_x0000_s2055" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:680.25pt;
+  margin-top:640.5pt;width:29.25pt;height:27.75pt;z-index:31;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId9" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    22, 0, 38, 0, 22, 39, 39, 0</x:Anchor>
+   <x:FmlaPict>concat.triton.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_48" o:spid="_x0000_s2056" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:680.25pt;
+  margin-top:675.75pt;width:30pt;height:27.75pt;z-index:32;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId15" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    22, 0, 40, 0, 22, 40, 41, 1</x:Anchor>
+   <x:FmlaPict>concat.triton.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_50" o:spid="_x0000_s2057" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:181.5pt;
+  margin-top:792.75pt;width:29.25pt;height:27.75pt;z-index:33;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId5" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 47, 0, 6, 39, 48, 0</x:Anchor>
+   <x:FmlaPict>concat.paladin.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_51" o:spid="_x0000_s2058" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:181.5pt;
+  margin-top:828pt;width:30pt;height:28.5pt;z-index:34;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId12" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 49, 0, 6, 40, 50, 1</x:Anchor>
+   <x:FmlaPict>concat.paladin.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_53" o:spid="_x0000_s2059" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:430.5pt;
+  margin-top:792.75pt;width:29.25pt;height:27.75pt;z-index:35;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId16" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    14, 0, 47, 0, 14, 39, 48, 0</x:Anchor>
+   <x:FmlaPict>concat.ninja.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_54" o:spid="_x0000_s2060" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:430.5pt;
+  margin-top:828pt;width:30pt;height:28.5pt;z-index:36;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId17" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    14, 0, 49, 0, 14, 40, 50, 1</x:Anchor>
+   <x:FmlaPict>concat.ninja.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_56" o:spid="_x0000_s2061" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:680.25pt;
+  margin-top:792.75pt;width:29.25pt;height:27.75pt;z-index:37;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId18" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    22, 0, 47, 0, 22, 39, 48, 0</x:Anchor>
+   <x:FmlaPict>concat.succubus.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_57" o:spid="_x0000_s2062" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:680.25pt;
+  margin-top:828pt;width:30pt;height:28.5pt;z-index:38;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId2" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    22, 0, 49, 0, 22, 40, 50, 1</x:Anchor>
+   <x:FmlaPict>concat.succubus.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_59" o:spid="_x0000_s2063" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:181.5pt;
+  margin-top:892.5pt;width:29.25pt;height:27.75pt;z-index:39;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId19" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 53, 0, 6, 39, 54, 0</x:Anchor>
+   <x:FmlaPict>concat.champion.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_60" o:spid="_x0000_s2064" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:181.5pt;
+  margin-top:927.75pt;width:30pt;height:28.5pt;z-index:40;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId2" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 55, 0, 6, 40, 56, 1</x:Anchor>
+   <x:FmlaPict>concat.champion.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_62" o:spid="_x0000_s2065" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:430.5pt;
+  margin-top:892.5pt;width:29.25pt;height:27.75pt;z-index:41;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId8" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    14, 0, 53, 0, 14, 39, 54, 0</x:Anchor>
+   <x:FmlaPict>concat.druid.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_63" o:spid="_x0000_s2066" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:430.5pt;
+  margin-top:927.75pt;width:30pt;height:28.5pt;z-index:42;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId2" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    14, 0, 55, 0, 14, 40, 56, 1</x:Anchor>
+   <x:FmlaPict>concat.druid.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_65" o:spid="_x0000_s2067" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:680.25pt;
+  margin-top:892.5pt;width:29.25pt;height:27.75pt;z-index:43;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId20" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    22, 0, 53, 0, 22, 39, 54, 0</x:Anchor>
+   <x:FmlaPict>concat.thundergod.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_66" o:spid="_x0000_s2068" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:680.25pt;
+  margin-top:927.75pt;width:30pt;height:28.5pt;z-index:44;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId2" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    22, 0, 55, 0, 22, 40, 56, 1</x:Anchor>
+   <x:FmlaPict>concat.thundergod.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_68" o:spid="_x0000_s2069" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:181.5pt;
+  margin-top:992.25pt;width:29.25pt;height:27.75pt;z-index:45;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId3" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 59, 0, 6, 39, 60, 0</x:Anchor>
+   <x:FmlaPict>concat.grizzlyreaper.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_69" o:spid="_x0000_s2070" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:181.5pt;
+  margin-top:1027.5pt;width:30pt;height:28.5pt;z-index:46;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId21" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 61, 0, 6, 40, 62, 1</x:Anchor>
+   <x:FmlaPict>concat.grizzlyreaper.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_71" o:spid="_x0000_s2071" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:430.5pt;
+  margin-top:992.25pt;width:29.25pt;height:27.75pt;z-index:47;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId20" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    14, 0, 59, 0, 14, 39, 60, 0</x:Anchor>
+   <x:FmlaPict>concat.atlanticore.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_72" o:spid="_x0000_s2072" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:430.5pt;
+  margin-top:1027.5pt;width:30pt;height:28.5pt;z-index:48;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId22" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    14, 0, 61, 0, 14, 40, 62, 1</x:Anchor>
+   <x:FmlaPict>concat.atlanticore.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_74" o:spid="_x0000_s2073" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:680.25pt;
+  margin-top:992.25pt;width:29.25pt;height:27.75pt;z-index:49;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId23" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    22, 0, 59, 0, 22, 39, 60, 0</x:Anchor>
+   <x:FmlaPict>concat.immortep.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_75" o:spid="_x0000_s2074" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:680.25pt;
+  margin-top:1027.5pt;width:30pt;height:28.5pt;z-index:50;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId2" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    22, 0, 61, 0, 22, 40, 62, 1</x:Anchor>
+   <x:FmlaPict>concat.immortep.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_77" o:spid="_x0000_s2075" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:181.5pt;
+  margin-top:1092pt;width:29.25pt;height:27.75pt;z-index:51;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId19" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 65, 0, 6, 39, 66, 0</x:Anchor>
+   <x:FmlaPict>concat.siren.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_78" o:spid="_x0000_s2076" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:181.5pt;
+  margin-top:1127.25pt;width:30pt;height:28.5pt;z-index:52;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId24" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 67, 0, 6, 40, 68, 1</x:Anchor>
+   <x:FmlaPict>concat.siren.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_81" o:spid="_x0000_s2077" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:430.5pt;
+  margin-top:1092pt;width:29.25pt;height:27.75pt;z-index:53;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId25" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    14, 0, 65, 0, 14, 39, 66, 0</x:Anchor>
+   <x:FmlaPict>concat.phantomking.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_82" o:spid="_x0000_s2078" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:430.5pt;
+  margin-top:1127.25pt;width:30pt;height:28.5pt;z-index:54;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId26" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    14, 0, 67, 0, 14, 40, 68, 1</x:Anchor>
+   <x:FmlaPict>concat.phantomking.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_84" o:spid="_x0000_s2079" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:181.5pt;
+  margin-top:1244.25pt;width:29.25pt;height:27.75pt;z-index:55;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId7" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 73, 0, 6, 39, 74, 0</x:Anchor>
+   <x:FmlaPict>concat.pumpkinduke.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_85" o:spid="_x0000_s2080" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:181.5pt;
+  margin-top:1279.5pt;width:30pt;height:28.5pt;z-index:56;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId27" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 75, 0, 6, 40, 76, 1</x:Anchor>
+   <x:FmlaPict>concat.pumpkinduke.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_87" o:spid="_x0000_s2081" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:430.5pt;
+  margin-top:1244.25pt;width:29.25pt;height:27.75pt;z-index:57;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId11" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    14, 0, 73, 0, 14, 39, 74, 0</x:Anchor>
+   <x:FmlaPict>concat.snowzilla.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_88" o:spid="_x0000_s2082" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:430.5pt;
+  margin-top:1279.5pt;width:30pt;height:28.5pt;z-index:58;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId2" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    14, 0, 75, 0, 14, 40, 76, 1</x:Anchor>
+   <x:FmlaPict>concat.snowzilla.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_90" o:spid="_x0000_s2083" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:680.25pt;
+  margin-top:1244.25pt;width:29.25pt;height:27.75pt;z-index:59;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId7" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    22, 0, 73, 0, 22, 39, 74, 0</x:Anchor>
+   <x:FmlaPict>concat.cupid.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_91" o:spid="_x0000_s2084" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:680.25pt;
+  margin-top:1279.5pt;width:30pt;height:28.5pt;z-index:60;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId2" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    22, 0, 75, 0, 22, 40, 76, 1</x:Anchor>
+   <x:FmlaPict>concat.cupid.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_93" o:spid="_x0000_s2085" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:181.5pt;
+  margin-top:1344pt;width:29.25pt;height:27.75pt;z-index:61;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId7" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 79, 0, 6, 39, 80, 0</x:Anchor>
+   <x:FmlaPict>concat.aries.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_94" o:spid="_x0000_s2086" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:181.5pt;
+  margin-top:1379.25pt;width:30pt;height:28.5pt;z-index:62;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId28" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 81, 0, 6, 40, 82, 1</x:Anchor>
+   <x:FmlaPict>concat.aries.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_96" o:spid="_x0000_s2087" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:430.5pt;
+  margin-top:1344pt;width:29.25pt;height:27.75pt;z-index:63;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId3" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    14, 0, 79, 0, 14, 39, 80, 0</x:Anchor>
+   <x:FmlaPict>concat.vladdracula.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_97" o:spid="_x0000_s2088" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:430.5pt;
+  margin-top:1379.25pt;width:30pt;height:28.5pt;z-index:64;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId29" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    14, 0, 81, 0, 14, 40, 82, 1</x:Anchor>
+   <x:FmlaPict>concat.vladdracula.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_100" o:spid="_x0000_s2089" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:680.25pt;
+  margin-top:1344pt;width:29.25pt;height:27.75pt;z-index:65;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId1" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    22, 0, 79, 0, 22, 39, 80, 0</x:Anchor>
+   <x:FmlaPict>concat.deathknight.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_101" o:spid="_x0000_s2090" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:680.25pt;
+  margin-top:1379.25pt;width:30pt;height:28.5pt;z-index:66;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId2" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    22, 0, 81, 0, 22, 40, 82, 1</x:Anchor>
+   <x:FmlaPict>concat.deathknight.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_103" o:spid="_x0000_s2091" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:181.5pt;
+  margin-top:1443.75pt;width:29.25pt;height:27.75pt;z-index:67;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId30" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 85, 0, 6, 39, 86, 0</x:Anchor>
+   <x:FmlaPict>concat.orksbane.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_104" o:spid="_x0000_s2092" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:181.5pt;
+  margin-top:1479pt;width:30pt;height:27.75pt;z-index:68;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId2" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 87, 0, 6, 40, 88, 1</x:Anchor>
+   <x:FmlaPict>concat.orksbane.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_107" o:spid="_x0000_s2093" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:430.5pt;
+  margin-top:1443.75pt;width:29.25pt;height:27.75pt;z-index:69;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId31" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    14, 0, 85, 0, 14, 39, 86, 0</x:Anchor>
+   <x:FmlaPict>concat.santaboom.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_108" o:spid="_x0000_s2094" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:430.5pt;
+  margin-top:1479pt;width:30pt;height:27.75pt;z-index:70;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId2" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    14, 0, 87, 0, 14, 40, 88, 1</x:Anchor>
+   <x:FmlaPict>concat.santaboom.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_111" o:spid="_x0000_s2095" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:680.25pt;
+  margin-top:1443.75pt;width:29.25pt;height:27.75pt;z-index:71;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId11" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    22, 0, 85, 0, 22, 39, 86, 0</x:Anchor>
+   <x:FmlaPict>concat.pixie.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_112" o:spid="_x0000_s2096" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:680.25pt;
+  margin-top:1479pt;width:30pt;height:27.75pt;z-index:72;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId2" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    22, 0, 87, 0, 22, 40, 88, 1</x:Anchor>
+   <x:FmlaPict>concat.pixie.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_114" o:spid="_x0000_s2097" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:181.5pt;
+  margin-top:1543.5pt;width:29.25pt;height:27.75pt;z-index:73;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId31" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 94, 0, 6, 39, 95, 0</x:Anchor>
+   <x:FmlaPict>concat.warlock.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_115" o:spid="_x0000_s2098" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:181.5pt;
+  margin-top:1578.75pt;width:30pt;height:28.5pt;z-index:74;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId2" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 96, 0, 6, 40, 97, 1</x:Anchor>
+   <x:FmlaPict>concat.warlock.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_117" o:spid="_x0000_s2099" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:430.5pt;
+  margin-top:1543.5pt;width:29.25pt;height:27.75pt;z-index:75;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId20" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    14, 0, 94, 0, 14, 39, 95, 0</x:Anchor>
+   <x:FmlaPict>concat.treantaur.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_118" o:spid="_x0000_s2100" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:430.5pt;
+  margin-top:1578.75pt;width:30pt;height:28.5pt;z-index:76;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId32" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    14, 0, 96, 0, 14, 40, 97, 1</x:Anchor>
+   <x:FmlaPict>concat.treantaur.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_121" o:spid="_x0000_s2101" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:680.25pt;
+  margin-top:1543.5pt;width:29.25pt;height:27.75pt;z-index:77;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId25" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    22, 0, 94, 0, 22, 39, 95, 0</x:Anchor>
+   <x:FmlaPict>concat.harpyqueen.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_122" o:spid="_x0000_s2102" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:680.25pt;
+  margin-top:1578.75pt;width:30pt;height:28.5pt;z-index:78;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId33" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    22, 0, 96, 0, 22, 40, 97, 1</x:Anchor>
+   <x:FmlaPict>concat.harpyqueen.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_125" o:spid="_x0000_s2103" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:181.5pt;
+  margin-top:1643.25pt;width:29.25pt;height:27.75pt;z-index:79;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId13" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 100, 0, 6, 39, 101, 0</x:Anchor>
+   <x:FmlaPict>concat.skullknight.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_126" o:spid="_x0000_s2104" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:181.5pt;
+  margin-top:1678.5pt;width:30pt;height:28.5pt;z-index:80;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId34" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 102, 0, 6, 40, 103, 1</x:Anchor>
+   <x:FmlaPict>concat.skullknight.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_129" o:spid="_x0000_s2105" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:430.5pt;
+  margin-top:1643.25pt;width:29.25pt;height:27.75pt;z-index:81;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId1" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    14, 0, 100, 0, 14, 39, 101, 0</x:Anchor>
+   <x:FmlaPict>concat.dreaddrake.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_130" o:spid="_x0000_s2106" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:430.5pt;
+  margin-top:1678.5pt;width:30pt;height:28.5pt;z-index:82;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId35" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    14, 0, 102, 0, 14, 40, 103, 1</x:Anchor>
+   <x:FmlaPict>concat.dreaddrake.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_132" o:spid="_x0000_s2107" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:680.25pt;
+  margin-top:1643.25pt;width:29.25pt;height:27.75pt;z-index:83;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId3" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    22, 0, 100, 0, 22, 39, 101, 0</x:Anchor>
+   <x:FmlaPict>concat.ghoulem.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_133" o:spid="_x0000_s2108" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:680.25pt;
+  margin-top:1678.5pt;width:30pt;height:28.5pt;z-index:84;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId36" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    22, 0, 102, 0, 22, 40, 103, 1</x:Anchor>
+   <x:FmlaPict>concat.ghoulem.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_136" o:spid="_x0000_s2109" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:181.5pt;
+  margin-top:1743pt;width:29.25pt;height:27.75pt;z-index:85;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId37" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 106, 0, 6, 39, 107, 0</x:Anchor>
+   <x:FmlaPict>concat.candykane.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_137" o:spid="_x0000_s2110" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:181.5pt;
+  margin-top:1778.25pt;width:30pt;height:27.75pt;z-index:86;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId2" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 108, 0, 6, 40, 109, 1</x:Anchor>
+   <x:FmlaPict>concat.candykane.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_139" o:spid="_x0000_s2111" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:430.5pt;
+  margin-top:1743pt;width:29.25pt;height:27.75pt;z-index:87;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId7" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    14, 0, 106, 0, 14, 39, 107, 0</x:Anchor>
+   <x:FmlaPict>concat.valentina.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_140" o:spid="_x0000_s2112" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:430.5pt;
+  margin-top:1778.25pt;width:30pt;height:27.75pt;z-index:88;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId24" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    14, 0, 108, 0, 14, 40, 109, 1</x:Anchor>
+   <x:FmlaPict>concat.valentina.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_143" o:spid="_x0000_s2113" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:680.25pt;
+  margin-top:1743pt;width:29.25pt;height:27.75pt;z-index:89;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId9" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    22, 0, 106, 0, 22, 39, 107, 0</x:Anchor>
+   <x:FmlaPict>concat.beasttamer.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_144" o:spid="_x0000_s2114" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:680.25pt;
+  margin-top:1778.25pt;width:30pt;height:27.75pt;z-index:90;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId2" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    22, 0, 108, 0, 22, 40, 109, 1</x:Anchor>
+   <x:FmlaPict>concat.beasttamer.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_147" o:spid="_x0000_s2115" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:181.5pt;
+  margin-top:1842.75pt;width:29.25pt;height:27.75pt;z-index:91;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId31" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 115, 0, 6, 39, 116, 0</x:Anchor>
+   <x:FmlaPict>concat.ladyleo.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_148" o:spid="_x0000_s2116" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:181.5pt;
+  margin-top:1878pt;width:30pt;height:28.5pt;z-index:92;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId2" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 117, 0, 6, 40, 118, 1</x:Anchor>
+   <x:FmlaPict>concat.ladyleo.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_151" o:spid="_x0000_s2117" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:430.5pt;
+  margin-top:1842.75pt;width:29.25pt;height:27.75pt;z-index:93;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId1" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    14, 0, 115, 0, 14, 39, 116, 0</x:Anchor>
+   <x:FmlaPict>concat.grimfiend.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_152" o:spid="_x0000_s2118" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:430.5pt;
+  margin-top:1878pt;width:30pt;height:28.5pt;z-index:94;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId2" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    14, 0, 117, 0, 14, 40, 118, 1</x:Anchor>
+   <x:FmlaPict>concat.grimfiend.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_155" o:spid="_x0000_s2119" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:680.25pt;
+  margin-top:1842.75pt;width:29.25pt;height:27.75pt;z-index:95;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId10" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    22, 0, 115, 0, 22, 39, 116, 0</x:Anchor>
+   <x:FmlaPict>concat.dracax.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_156" o:spid="_x0000_s2120" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:680.25pt;
+  margin-top:1878pt;width:30pt;height:28.5pt;z-index:96;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId2" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    22, 0, 117, 0, 22, 40, 118, 1</x:Anchor>
+   <x:FmlaPict>concat.dracax.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_158" o:spid="_x0000_s2121" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:181.5pt;
+  margin-top:1942.5pt;width:29.25pt;height:27.75pt;z-index:97;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId7" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 121, 0, 6, 39, 122, 0</x:Anchor>
+   <x:FmlaPict>concat.medusa.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_159" o:spid="_x0000_s2122" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:181.5pt;
+  margin-top:1977.75pt;width:30pt;height:28.5pt;z-index:98;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId2" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 123, 0, 6, 40, 124, 1</x:Anchor>
+   <x:FmlaPict>concat.medusa.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_162" o:spid="_x0000_s2123" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:430.5pt;
+  margin-top:1942.5pt;width:29.25pt;height:27.75pt;z-index:99;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId31" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    14, 0, 121, 0, 14, 39, 122, 0</x:Anchor>
+   <x:FmlaPict>concat.trixietreat.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_163" o:spid="_x0000_s2124" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:430.5pt;
+  margin-top:1977.75pt;width:30pt;height:28.5pt;z-index:100;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId2" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    14, 0, 123, 0, 14, 40, 124, 1</x:Anchor>
+   <x:FmlaPict>concat.trixietreat.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_165" o:spid="_x0000_s2125" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:680.25pt;
+  margin-top:1942.5pt;width:29.25pt;height:27.75pt;z-index:101;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId13" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    22, 0, 121, 0, 22, 39, 122, 0</x:Anchor>
+   <x:FmlaPict>concat.revenant.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_166" o:spid="_x0000_s2126" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:680.25pt;
+  margin-top:1977.75pt;width:30pt;height:28.5pt;z-index:102;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId2" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    22, 0, 123, 0, 22, 40, 124, 1</x:Anchor>
+   <x:FmlaPict>concat.revenant.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_168" o:spid="_x0000_s2127" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:181.5pt;
+  margin-top:2042.25pt;width:29.25pt;height:27.75pt;z-index:103;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId31" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 127, 0, 6, 39, 128, 0</x:Anchor>
+   <x:FmlaPict>concat.lilnick.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_169" o:spid="_x0000_s2128" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:181.5pt;
+  margin-top:2077.5pt;width:30pt;height:28.5pt;z-index:104;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId2" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 129, 0, 6, 40, 130, 1</x:Anchor>
+   <x:FmlaPict>concat.lilnick.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_171" o:spid="_x0000_s2129" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:430.5pt;
+  margin-top:2042.25pt;width:29.25pt;height:27.75pt;z-index:105;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId30" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    14, 0, 127, 0, 14, 39, 128, 0</x:Anchor>
+   <x:FmlaPict>concat.michael.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_172" o:spid="_x0000_s2130" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:430.5pt;
+  margin-top:2077.5pt;width:30pt;height:28.5pt;z-index:106;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId2" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    14, 0, 129, 0, 14, 40, 130, 1</x:Anchor>
+   <x:FmlaPict>concat.michael.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_174" o:spid="_x0000_s2131" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:680.25pt;
+  margin-top:2042.25pt;width:29.25pt;height:27.75pt;z-index:107;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId3" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    22, 0, 127, 0, 22, 39, 128, 0</x:Anchor>
+   <x:FmlaPict>concat.heartbreaker.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_175" o:spid="_x0000_s2132" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:680.25pt;
+  margin-top:2077.5pt;width:30pt;height:28.5pt;z-index:108;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId26" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    22, 0, 129, 0, 22, 40, 130, 1</x:Anchor>
+   <x:FmlaPict>concat.heartbreaker.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_177" o:spid="_x0000_s2133" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:181.5pt;
+  margin-top:2309.25pt;width:29.25pt;height:27.75pt;z-index:109;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId9" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 142, 0, 6, 39, 143, 0</x:Anchor>
+   <x:FmlaPict>concat.spiritmage.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_178" o:spid="_x0000_s2134" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:181.5pt;
+  margin-top:2344.5pt;width:30pt;height:28.5pt;z-index:110;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId26" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 144, 0, 6, 40, 145, 1</x:Anchor>
+   <x:FmlaPict>concat.spiritmage.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_180" o:spid="_x0000_s2135" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:430.5pt;
+  margin-top:2309.25pt;width:29.25pt;height:27.75pt;z-index:111;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId7" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    14, 0, 142, 0, 14, 39, 143, 0</x:Anchor>
+   <x:FmlaPict>concat.minotaurchieftain.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_181" o:spid="_x0000_s2136" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:430.5pt;
+  margin-top:2344.5pt;width:30pt;height:28.5pt;z-index:112;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId2" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    14, 0, 144, 0, 14, 40, 145, 1</x:Anchor>
+   <x:FmlaPict>concat.minotaurchieftain.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_184" o:spid="_x0000_s2137" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:680.25pt;
+  margin-top:2309.25pt;width:29.25pt;height:27.75pt;z-index:113;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId38" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    22, 0, 142, 0, 22, 39, 143, 0</x:Anchor>
+   <x:FmlaPict>concat.destroyer.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_185" o:spid="_x0000_s2138" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:680.25pt;
+  margin-top:2344.5pt;width:30pt;height:28.5pt;z-index:114;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId2" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    22, 0, 144, 0, 22, 40, 145, 1</x:Anchor>
+   <x:FmlaPict>concat.destroyer.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_187" o:spid="_x0000_s2139" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:181.5pt;
+  margin-top:2461.5pt;width:29.25pt;height:27.75pt;z-index:115;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId25" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 150, 0, 6, 39, 151, 0</x:Anchor>
+   <x:FmlaPict>concat.moltanica.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_188" o:spid="_x0000_s2140" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:181.5pt;
+  margin-top:2496.75pt;width:30pt;height:28.5pt;z-index:116;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId2" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 152, 0, 6, 40, 153, 1</x:Anchor>
+   <x:FmlaPict>concat.moltanica.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_191" o:spid="_x0000_s2141" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:430.5pt;
+  margin-top:2461.5pt;width:29.25pt;height:27.75pt;z-index:117;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId38" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    14, 0, 150, 0, 14, 39, 151, 0</x:Anchor>
+   <x:FmlaPict>concat.arctica.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_192" o:spid="_x0000_s2142" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:430.5pt;
+  margin-top:2496.75pt;width:30pt;height:28.5pt;z-index:118;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId2" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    14, 0, 152, 0, 14, 40, 153, 1</x:Anchor>
+   <x:FmlaPict>concat.arctica.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_194" o:spid="_x0000_s2143" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:680.25pt;
+  margin-top:2461.5pt;width:29.25pt;height:27.75pt;z-index:119;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId38" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    22, 0, 150, 0, 22, 39, 151, 0</x:Anchor>
+   <x:FmlaPict>concat.demogorgon.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_195" o:spid="_x0000_s2144" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:680.25pt;
+  margin-top:2496.75pt;width:30pt;height:28.5pt;z-index:120;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId2" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    22, 0, 152, 0, 22, 40, 153, 1</x:Anchor>
+   <x:FmlaPict>concat.demogorgon.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_197" o:spid="_x0000_s2145" type="#_x0000_t75"
+  style='position:absolute;margin-left:181.5pt;margin-top:89.25pt;width:28.5pt;
+  height:28.5pt;z-index:121;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId8" o:title="item0000"/>
+  <o:lock v:ext="edit" aspectratio="f"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 5, 0, 6, 38, 6, 1</x:Anchor>
+   <x:FmlaPict>concat.angel.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_198" o:spid="_x0000_s2146" type="#_x0000_t75"
+  alt="Crests" style='position:absolute;margin-left:181.5pt;margin-top:124.5pt;
+  width:30pt;height:28.5pt;z-index:122;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId29" o:title="Crests"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 7, 0, 6, 40, 8, 1</x:Anchor>
+   <x:FmlaPict>concat.angel.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_199" o:spid="_x0000_s2147" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:20.25pt;margin-top:68.25pt;
+  width:60.75pt;height:51pt;z-index:123;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId39" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    1, 1, 3, 1, 2, 1, 6, 3</x:Anchor>
+   <x:FmlaPict>concat.angel.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_200" o:spid="_x0000_s2148" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:268.5pt;margin-top:68.25pt;
+  width:60.75pt;height:51pt;z-index:124;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId40" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    9, 1, 3, 1, 10, 1, 6, 3</x:Anchor>
+   <x:FmlaPict>concat.marksman.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_201" o:spid="_x0000_s2149" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:519pt;margin-top:68.25pt;
+  width:60.75pt;height:51pt;z-index:125;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId41" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    17, 1, 3, 1, 18, 1, 6, 3</x:Anchor>
+   <x:FmlaPict>concat.hillgiant.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_202" o:spid="_x0000_s2150" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:519pt;margin-top:168pt;
+  width:60.75pt;height:51pt;z-index:126;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId42" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    17, 1, 9, 1, 18, 1, 12, 3</x:Anchor>
+   <x:FmlaPict>concat.dryad.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_203" o:spid="_x0000_s2151" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:268.5pt;margin-top:168pt;
+  width:60.75pt;height:51pt;z-index:127;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId43" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    9, 1, 9, 1, 10, 1, 12, 3</x:Anchor>
+   <x:FmlaPict>concat.frostwitch.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_204" o:spid="_x0000_s2152" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:20.25pt;margin-top:168pt;
+  width:60.75pt;height:51pt;z-index:128;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId44" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    1, 1, 9, 1, 2, 1, 12, 3</x:Anchor>
+   <x:FmlaPict>concat.engineer.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_205" o:spid="_x0000_s2153" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:20.25pt;margin-top:420pt;
+  width:60.75pt;height:51pt;z-index:129;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId45" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    1, 1, 24, 1, 2, 1, 27, 3</x:Anchor>
+   <x:FmlaPict>concat.executioner.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_206" o:spid="_x0000_s2154" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:20.25pt;margin-top:267.75pt;
+  width:60.75pt;height:51pt;z-index:130;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId46" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    1, 1, 15, 1, 2, 1, 18, 3</x:Anchor>
+   <x:FmlaPict>concat.alchemist.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_207" o:spid="_x0000_s2155" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:268.5pt;margin-top:267.75pt;
+  width:60.75pt;height:51pt;z-index:131;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId47" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    9, 1, 15, 1, 10, 1, 18, 3</x:Anchor>
+   <x:FmlaPict>concat.marauder.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_208" o:spid="_x0000_s2156" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:268.5pt;margin-top:420pt;
+  width:60.75pt;height:51pt;z-index:132;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId48" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    9, 1, 24, 1, 10, 1, 27, 3</x:Anchor>
+   <x:FmlaPict>concat.assassin.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_209" o:spid="_x0000_s2157" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:519pt;margin-top:420pt;
+  width:60.75pt;height:51pt;z-index:133;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId49" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    17, 1, 24, 1, 18, 1, 27, 3</x:Anchor>
+   <x:FmlaPict>concat.werewolf.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_210" o:spid="_x0000_s2158" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:519pt;margin-top:519.75pt;
+  width:60.75pt;height:51pt;z-index:134;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId50" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    17, 1, 30, 1, 18, 1, 33, 3</x:Anchor>
+   <x:FmlaPict>concat.shaman.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_211" o:spid="_x0000_s2159" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:268.5pt;margin-top:519.75pt;
+  width:60.75pt;height:51pt;z-index:135;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId51" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    9, 1, 30, 1, 10, 1, 33, 3</x:Anchor>
+   <x:FmlaPict>concat.painda.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_212" o:spid="_x0000_s2160" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:20.25pt;margin-top:519.75pt;
+  width:60.75pt;height:51pt;z-index:136;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId52" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    1, 1, 30, 1, 2, 1, 33, 3</x:Anchor>
+   <x:FmlaPict>concat.cyclops.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_213" o:spid="_x0000_s2161" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:20.25pt;margin-top:619.5pt;
+  width:60.75pt;height:51pt;z-index:137;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId53" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    1, 1, 36, 1, 2, 1, 39, 3</x:Anchor>
+   <x:FmlaPict>concat.serpentqueen.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_214" o:spid="_x0000_s2162" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:268.5pt;margin-top:619.5pt;
+  width:60.75pt;height:51pt;z-index:138;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId54" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    9, 1, 36, 1, 10, 1, 39, 3</x:Anchor>
+   <x:FmlaPict>concat.icedemon.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_215" o:spid="_x0000_s2163" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:519pt;margin-top:619.5pt;
+  width:60.75pt;height:51pt;z-index:139;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId55" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    17, 1, 36, 1, 18, 1, 39, 3</x:Anchor>
+   <x:FmlaPict>concat.triton.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_216" o:spid="_x0000_s2164" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:268.5pt;margin-top:771.75pt;
+  width:60.75pt;height:51pt;z-index:140;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId56" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    9, 1, 45, 1, 10, 1, 48, 3</x:Anchor>
+   <x:FmlaPict>concat.ninja.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_217" o:spid="_x0000_s2165" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:20.25pt;margin-top:771.75pt;
+  width:60.75pt;height:51pt;z-index:141;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId57" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    1, 1, 45, 1, 2, 1, 48, 3</x:Anchor>
+   <x:FmlaPict>concat.paladin.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_218" o:spid="_x0000_s2166" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:519pt;margin-top:871.5pt;
+  width:60.75pt;height:51pt;z-index:142;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId58" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    17, 1, 51, 1, 18, 1, 54, 3</x:Anchor>
+   <x:FmlaPict>concat.thundergod.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_219" o:spid="_x0000_s2167" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:268.5pt;margin-top:871.5pt;
+  width:60.75pt;height:51pt;z-index:143;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId59" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    9, 1, 51, 1, 10, 1, 54, 3</x:Anchor>
+   <x:FmlaPict>concat.druid.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_220" o:spid="_x0000_s2168" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:20.25pt;margin-top:871.5pt;
+  width:60.75pt;height:51pt;z-index:144;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId60" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    1, 1, 51, 1, 2, 1, 54, 3</x:Anchor>
+   <x:FmlaPict>concat.champion.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_221" o:spid="_x0000_s2169" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:20.25pt;margin-top:971.25pt;
+  width:60.75pt;height:51pt;z-index:145;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId61" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    1, 1, 57, 1, 2, 1, 60, 3</x:Anchor>
+   <x:FmlaPict>concat.grizzlyreaper.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_222" o:spid="_x0000_s2170" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:268.5pt;margin-top:971.25pt;
+  width:60.75pt;height:51pt;z-index:146;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId62" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    9, 1, 57, 1, 10, 1, 60, 3</x:Anchor>
+   <x:FmlaPict>concat.atlanticore.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_223" o:spid="_x0000_s2171" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:519pt;margin-top:971.25pt;
+  width:60.75pt;height:51pt;z-index:147;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId63" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    17, 1, 57, 1, 18, 1, 60, 3</x:Anchor>
+   <x:FmlaPict>concat.immortep.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_224" o:spid="_x0000_s2172" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:268.5pt;margin-top:1071pt;
+  width:60.75pt;height:51pt;z-index:148;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId64" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    9, 1, 63, 1, 10, 1, 66, 3</x:Anchor>
+   <x:FmlaPict>concat.phantomking.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_225" o:spid="_x0000_s2173" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:20.25pt;margin-top:1071pt;
+  width:60.75pt;height:51pt;z-index:149;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId65" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    1, 1, 63, 1, 2, 1, 66, 3</x:Anchor>
+   <x:FmlaPict>concat.siren.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_226" o:spid="_x0000_s2174" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:519pt;margin-top:1223.25pt;
+  width:60.75pt;height:51pt;z-index:150;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId66" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    17, 1, 71, 1, 18, 1, 74, 3</x:Anchor>
+   <x:FmlaPict>concat.cupid.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_227" o:spid="_x0000_s2175" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:519pt;margin-top:1323pt;
+  width:60.75pt;height:51pt;z-index:151;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId67" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    17, 1, 77, 1, 18, 1, 80, 3</x:Anchor>
+   <x:FmlaPict>concat.deathknight.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_228" o:spid="_x0000_s2176" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:519pt;margin-top:1422.75pt;
+  width:60.75pt;height:51pt;z-index:152;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId68" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    17, 1, 83, 1, 18, 1, 86, 3</x:Anchor>
+   <x:FmlaPict>concat.pixie.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_229" o:spid="_x0000_s2177" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:519pt;margin-top:1522.5pt;
+  width:60.75pt;height:51pt;z-index:153;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId69" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    17, 1, 92, 1, 18, 1, 95, 3</x:Anchor>
+   <x:FmlaPict>concat.harpyqueen.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_230" o:spid="_x0000_s2178" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:268.5pt;margin-top:1522.5pt;
+  width:60.75pt;height:51pt;z-index:154;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId70" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    9, 1, 92, 1, 10, 1, 95, 3</x:Anchor>
+   <x:FmlaPict>concat.treantaur.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_231" o:spid="_x0000_s2179" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:268.5pt;margin-top:1422.75pt;
+  width:60.75pt;height:51pt;z-index:155;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId71" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    9, 1, 83, 1, 10, 1, 86, 3</x:Anchor>
+   <x:FmlaPict>concat.santaboom.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_232" o:spid="_x0000_s2180" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:268.5pt;margin-top:1323pt;
+  width:60.75pt;height:51pt;z-index:156;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId72" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    9, 1, 77, 1, 10, 1, 80, 3</x:Anchor>
+   <x:FmlaPict>concat.vladdracula.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_233" o:spid="_x0000_s2181" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:268.5pt;margin-top:1223.25pt;
+  width:60.75pt;height:51pt;z-index:157;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId73" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    9, 1, 71, 1, 10, 1, 74, 3</x:Anchor>
+   <x:FmlaPict>concat.snowzilla.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_234" o:spid="_x0000_s2182" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:20.25pt;margin-top:1223.25pt;
+  width:60.75pt;height:51pt;z-index:158;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId74" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    1, 1, 71, 1, 2, 1, 74, 3</x:Anchor>
+   <x:FmlaPict>concat.pumpkinduke.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_235" o:spid="_x0000_s2183" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:20.25pt;margin-top:1323pt;
+  width:60.75pt;height:51pt;z-index:159;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId75" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    1, 1, 77, 1, 2, 1, 80, 3</x:Anchor>
+   <x:FmlaPict>concat.aries.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_236" o:spid="_x0000_s2184" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:20.25pt;margin-top:1422.75pt;
+  width:60.75pt;height:51pt;z-index:160;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId76" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    1, 1, 83, 1, 2, 1, 86, 3</x:Anchor>
+   <x:FmlaPict>concat.orksbane.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_237" o:spid="_x0000_s2185" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:20.25pt;margin-top:1522.5pt;
+  width:60.75pt;height:51pt;z-index:161;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId77" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    1, 1, 92, 1, 2, 1, 95, 3</x:Anchor>
+   <x:FmlaPict>concat.warlock.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_238" o:spid="_x0000_s2186" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:519pt;margin-top:1622.25pt;
+  width:60.75pt;height:51pt;z-index:162;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId78" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    17, 1, 98, 1, 18, 1, 101, 3</x:Anchor>
+   <x:FmlaPict>concat.ghoulem.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_239" o:spid="_x0000_s2187" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:519pt;margin-top:1722pt;
+  width:60.75pt;height:51pt;z-index:163;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId79" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    17, 1, 104, 1, 18, 1, 107, 3</x:Anchor>
+   <x:FmlaPict>concat.beasttamer.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_240" o:spid="_x0000_s2188" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:519pt;margin-top:1821.75pt;
+  width:60.75pt;height:51pt;z-index:164;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId80" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    17, 1, 113, 1, 18, 1, 116, 3</x:Anchor>
+   <x:FmlaPict>concat.dracax.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_241" o:spid="_x0000_s2189" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:519pt;margin-top:1921.5pt;
+  width:60.75pt;height:51pt;z-index:165;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId81" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    17, 1, 119, 1, 18, 1, 122, 3</x:Anchor>
+   <x:FmlaPict>concat.revenant.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_242" o:spid="_x0000_s2190" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:519pt;margin-top:2021.25pt;
+  width:60.75pt;height:51pt;z-index:166;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId82" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    17, 1, 125, 1, 18, 1, 128, 3</x:Anchor>
+   <x:FmlaPict>concat.heartbreaker.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_243" o:spid="_x0000_s2191" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:268.5pt;margin-top:2021.25pt;
+  width:60.75pt;height:51pt;z-index:167;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId83" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    9, 1, 125, 1, 10, 1, 128, 3</x:Anchor>
+   <x:FmlaPict>concat.michael.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_244" o:spid="_x0000_s2192" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:268.5pt;margin-top:1921.5pt;
+  width:60.75pt;height:51pt;z-index:168;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId84" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    9, 1, 119, 1, 10, 1, 122, 3</x:Anchor>
+   <x:FmlaPict>concat.trixietreat.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_245" o:spid="_x0000_s2193" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:268.5pt;margin-top:1821.75pt;
+  width:60.75pt;height:51pt;z-index:169;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId85" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    9, 1, 113, 1, 10, 1, 116, 3</x:Anchor>
+   <x:FmlaPict>concat.grimfiend.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_246" o:spid="_x0000_s2194" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:268.5pt;margin-top:1722pt;
+  width:60.75pt;height:51pt;z-index:170;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId86" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    9, 1, 104, 1, 10, 1, 107, 3</x:Anchor>
+   <x:FmlaPict>concat.valentina.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_247" o:spid="_x0000_s2195" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:268.5pt;margin-top:1622.25pt;
+  width:60.75pt;height:51pt;z-index:171;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId87" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    9, 1, 98, 1, 10, 1, 101, 3</x:Anchor>
+   <x:FmlaPict>concat.dreaddrake.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_248" o:spid="_x0000_s2196" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:20.25pt;margin-top:1622.25pt;
+  width:60.75pt;height:51pt;z-index:172;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId88" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    1, 1, 98, 1, 2, 1, 101, 3</x:Anchor>
+   <x:FmlaPict>concat.skullknight.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_249" o:spid="_x0000_s2197" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:20.25pt;margin-top:1722pt;
+  width:60.75pt;height:51pt;z-index:173;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId89" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    1, 1, 104, 1, 2, 1, 107, 3</x:Anchor>
+   <x:FmlaPict>concat.candykane.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_250" o:spid="_x0000_s2198" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:20.25pt;margin-top:1821.75pt;
+  width:60.75pt;height:51pt;z-index:174;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId90" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    1, 1, 113, 1, 2, 1, 116, 3</x:Anchor>
+   <x:FmlaPict>concat.ladyleo.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_251" o:spid="_x0000_s2199" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:20.25pt;margin-top:1921.5pt;
+  width:60.75pt;height:51pt;z-index:175;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId91" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    1, 1, 119, 1, 2, 1, 122, 3</x:Anchor>
+   <x:FmlaPict>concat.medusa.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_252" o:spid="_x0000_s2200" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:20.25pt;margin-top:2021.25pt;
+  width:60.75pt;height:51pt;z-index:176;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId92" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    1, 1, 125, 1, 2, 1, 128, 3</x:Anchor>
+   <x:FmlaPict>concat.lilnick.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_253" o:spid="_x0000_s2201" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:519pt;margin-top:2288.25pt;
+  width:60.75pt;height:51pt;z-index:177;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId93" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    17, 1, 140, 1, 18, 1, 143, 3</x:Anchor>
+   <x:FmlaPict>concat.destroyer.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_254" o:spid="_x0000_s2202" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:268.5pt;margin-top:2288.25pt;
+  width:60.75pt;height:51pt;z-index:178;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId94" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    9, 1, 140, 1, 10, 1, 143, 3</x:Anchor>
+   <x:FmlaPict>concat.minotaurchieftain.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_255" o:spid="_x0000_s2203" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:20.25pt;margin-top:2288.25pt;
+  width:60.75pt;height:51pt;z-index:179;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId95" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    1, 1, 140, 1, 2, 1, 143, 3</x:Anchor>
+   <x:FmlaPict>concat.spiritmage.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_256" o:spid="_x0000_s2204" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:519pt;margin-top:2440.5pt;
+  width:60.75pt;height:51pt;z-index:180;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId96" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    17, 1, 148, 1, 18, 1, 151, 3</x:Anchor>
+   <x:FmlaPict>concat.demogorgon.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_257" o:spid="_x0000_s2205" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:268.5pt;margin-top:2440.5pt;
+  width:60.75pt;height:51pt;z-index:181;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId97" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    9, 1, 148, 1, 10, 1, 151, 3</x:Anchor>
+   <x:FmlaPict>concat.arctica.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_258" o:spid="_x0000_s2206" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:20.25pt;margin-top:2440.5pt;
+  width:60.75pt;height:51pt;z-index:182;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId98" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    1, 1, 148, 1, 2, 1, 151, 3</x:Anchor>
+   <x:FmlaPict>concat.moltanica.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_259" o:spid="_x0000_s2207" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:519pt;margin-top:771.75pt;
+  width:60.75pt;height:51pt;z-index:183;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId99" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    17, 1, 45, 1, 18, 1, 48, 3</x:Anchor>
+   <x:FmlaPict>concat.succubus.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_261" o:spid="_x0000_s2208" type="#_x0000_t75"
+  alt="Talent Berserk" style='position:absolute;margin-left:181.5pt;
+  margin-top:2142pt;width:29.25pt;height:27.75pt;z-index:184;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId100" o:title="Talent Berserk"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 133, 0, 6, 39, 134, 0</x:Anchor>
+   <x:FmlaPict>concat.anubis.3</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_262" o:spid="_x0000_s2209" type="#_x0000_t75"
+  alt="Crest Bulwark" style='position:absolute;margin-left:181.5pt;
+  margin-top:2177.25pt;width:30pt;height:28.5pt;z-index:185;visibility:visible;
+  mso-wrap-style:square'>
+  <v:imagedata o:relid="rId2" o:title="Crest Bulwark"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 135, 0, 6, 40, 136, 1</x:Anchor>
+   <x:FmlaPict>concat.anubis.5</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape><v:shape id="Picture_x0020_263" o:spid="_x0000_s2210" type="#_x0000_t75"
+  alt="Warlock Icon" style='position:absolute;margin-left:20.25pt;margin-top:2121pt;
+  width:60.75pt;height:51pt;z-index:186;visibility:visible;mso-wrap-style:square'>
+  <v:imagedata o:relid="rId101" o:title="Warlock Icon"/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    1, 1, 131, 1, 2, 1, 134, 3</x:Anchor>
+   <x:FmlaPict>concat.anubis.1</x:FmlaPict>
+   <x:CF>Pict</x:CF>
+   <x:Camera/>
+  </x:ClientData>
+ </v:shape></xml>
